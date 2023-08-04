@@ -1,0 +1,27 @@
+{
+  "name": "@initdecory/keyword-search",
+  "version": "1.0.3",
+  "description": "This package takes in a list of keywords and provide word suggestions from your character input.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Devorii/word-prediction-tool.git"
+  },
+  "keywords": [
+    "word",
+    "suggestions",
+    "predictive",
+    "text",
+    "text",
+    "suggestion"
+  ],
+  "author": "initdecory",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Devorii/word-prediction-tool/issues"
+  },
+  "homepage": "https://github.com/Devorii/word-prediction-tool#readme"
+}
